@@ -1,0 +1,6 @@
+flutter
+firebase_auth
+cloud_firestore
+firebase_storage
+url_launcher
+http
